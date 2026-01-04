@@ -1,0 +1,331 @@
+# 🔥 14-Day TCS NQT Prime Programming Roadmap
+
+## 🟢 Day 1 – Arrays Basics
+
+1. Find largest element
+2. Find second largest
+3. Check if array sorted
+4. Reverse array
+5. Rotate array by k
+6. Remove duplicates (sorted)
+7. Left rotate by 1
+8. Count frequency
+9. Move zeros to end
+10. Linear search
+11. Sum of array
+12. Average of array
+13. Find missing number
+14. Max consecutive ones
+15. Array palindrome
+16. Count even & odd
+17. Replace elements with greatest on right
+18. Find smallest element
+19. Check equality of two arrays
+20. Array insertion & deletion
+
+---
+
+## 🟢 Day 2 – Arrays (Medium)
+
+1. Two sum
+2. Three sum (basic)
+3. Kadane’s algorithm
+4. Majority element
+5. Sort 0s,1s,2s
+6. Union of two arrays
+7. Intersection of two arrays
+8. Leaders in array
+9. Subarray with given sum
+10. Longest subarray with sum k
+11. Rearrange array alternately
+12. Stock buy & sell (single transaction)
+13. Missing & repeating number
+14. Equilibrium index
+15. Count inversions
+16. Maximum product subarray
+17. Minimize the heights
+18. Trapping rainwater
+19. Chocolate distribution
+20. Maximum sum circular subarray
+
+---
+
+## 🟢 Day 3 – Strings Basics
+
+1. Reverse string
+2. Check palindrome
+3. Count vowels & consonants
+4. Remove spaces
+5. Change case
+6. Find length without strlen
+7. Count words
+8. Anagram check
+9. Remove duplicate characters
+10. First non-repeating character
+11. Replace character
+12. Compare strings
+13. Convert string to integer
+14. Longest word
+15. Count characters frequency
+16. Toggle case
+17. Remove vowels
+18. Reverse words in string
+19. Check rotation
+20. Check pangram
+
+---
+
+## 🟢 Day 4 – Strings (Medium)
+
+1. Longest common prefix
+2. Longest palindrome substring
+3. String compression
+4. Valid parentheses
+5. Isomorphic strings
+6. Pattern matching (naive)
+7. Count substrings
+8. Remove adjacent duplicates
+9. Find all permutations (small)
+10. Find substring index
+11. Edit distance (basic)
+12. Repeated substring pattern
+13. Balanced parentheses count
+14. String rotation check
+15. Minimum insertions for palindrome
+16. Lexicographically smallest string
+17. Word frequency
+18. Reverse each word
+19. Capitalize words
+20. String to binary conversion
+
+---
+
+## 🟢 Day 5 – HashMap / HashSet
+
+1. Frequency count
+2. First repeating element
+3. First non-repeating element
+4. Two sum using hashmap
+5. Subarray with sum 0
+6. Longest consecutive sequence
+7. Count distinct elements
+8. Union & intersection
+9. Majority element
+10. Duplicate detection
+11. Anagram grouping
+12. Check subset
+13. Pair with given sum
+14. Max distance between same elements
+15. Character frequency
+16. Symmetric pairs
+17. Zero sum subarrays count
+18. Smallest window with all chars
+19. Distinct characters in window
+20. Longest substring without repetition
+
+---
+
+## 🟢 Day 6 – Sets + Applications
+
+1. Remove duplicates
+2. Check unique elements
+3. Find common elements
+4. Distinct count
+5. Set union
+6. Set intersection
+7. Set difference
+8. Check disjoint sets
+9. Find duplicates using set
+10. Longest consecutive sequence
+11. Pair existence
+12. Unique characters string
+13. Missing elements
+14. Count unique pairs
+15. Subset check
+16. Equal sum partition (basic)
+17. Array equality
+18. Remove common elements
+19. Distinct window count
+20. Common characters in strings
+
+---
+
+## 🟢 Day 7 – Number System / Math
+
+1. Check prime
+2. Prime in range
+3. Sieve of Eratosthenes
+4. GCD
+5. LCM
+6. Check Armstrong
+7. Check perfect number
+8. Reverse number
+9. Count digits
+10. Sum of digits
+11. Binary to decimal
+12. Decimal to binary
+13. Check power of 2
+14. Factorial
+15. Fibonacci
+16. Count trailing zeros
+17. Palindrome number
+18. Factors of number
+19. HCF using Euclid
+20. Modulo arithmetic basics
+
+---
+
+## 🟢 Day 8 – Bit Manipulation
+
+1. Check even or odd
+2. Find single number
+3. Count set bits
+4. Power of two
+5. Toggle ith bit
+6. Set ith bit
+7. Clear ith bit
+8. XOR of range
+9. Find missing number
+10. Find two non-repeating
+11. Swap without temp
+12. Binary representation
+13. Check kth bit
+14. Gray code
+15. Subsets generation
+16. Bitwise AND range
+17. Maximum AND pair
+18. Hamming distance
+19. Bit difference count
+20. Binary palindrome
+
+---
+
+## 🟢 Day 9 – Sorting
+
+1. Bubble sort
+2. Selection sort
+3. Insertion sort
+4. Merge sort
+5. Quick sort
+6. Counting sort
+7. Sort array of 0s & 1s
+8. Sort by frequency
+9. Sort by absolute difference
+10. Kth largest
+11. Kth smallest
+12. Relative sorting
+13. Sort string
+14. Sort pairs
+15. Check if array sortable
+16. Minimum swaps
+17. Wave sort
+18. Dutch national flag
+19. Sort stack
+20. Sort without extra space
+
+---
+
+## 🟢 Day 10 – Searching
+
+1. Linear search
+2. Binary search
+3. First & last occurrence
+4. Count occurrences
+5. Search in rotated array
+6. Peak element
+7. Square root using binary search
+8. Floor & ceil
+9. Lower bound
+10. Upper bound
+11. Search in 2D matrix
+12. Allocate books
+13. Aggressive cows
+14. Painters partition
+15. Median of two arrays
+16. Find missing number
+17. Find element in infinite array
+18. Exponential search
+19. Jump search
+20. Ternary search
+
+---
+
+## 🟢 Day 11 – Stack
+
+1. Stack implementation
+2. Reverse stack
+3. Balanced parentheses
+4. Next greater element
+5. Stock span
+6. Infix to postfix
+7. Postfix evaluation
+8. Min stack
+9. Largest rectangle in histogram
+10. Remove adjacent duplicates
+11. Sort stack
+12. Stack using array
+13. Stack using linked list
+14. Prefix evaluation
+15. Celebrity problem
+16. Max area rectangle
+17. Stack permutation
+18. Check redundant brackets
+19. Two stacks in array
+20. Implement queue using stack
+
+---
+
+## 🟢 Day 12 – Queue / Deque
+
+1. Queue implementation
+2. Circular queue
+3. Deque implementation
+4. Reverse queue
+5. Stack using queue
+6. First negative in window
+7. Sliding window maximum
+8. Generate binary numbers
+9. Interleave queue
+10. LRU cache
+11. Rotten oranges
+12. Queue using array
+13. Priority queue basics
+14. Min heap implementation
+15. Max heap implementation
+16. Heap sort
+17. K largest elements
+18. K smallest elements
+19. Median in stream
+20. Merge k sorted arrays
+
+---
+
+## 🟢 Day 13 – Mixed TCS-Style Coding
+
+1. Input-output heavy problem
+2. Pattern printing (10 types)
+3. String + array mix
+4. Map + sorting
+5. Counting based problems
+6. Simulation problem
+7. Time conversion
+8. Date difference
+9. Matrix rotation
+10. Matrix diagonal sum
+11. Spiral matrix
+12. Identity matrix check
+13. Matrix multiplication
+14. Replace elements
+15. Prefix sum
+16. Suffix sum
+17. Window problems
+18. Greedy scheduling
+19. Simple DP (stairs)
+20. DP Fibonacci
+
+---
+
+## 🟢 Day 14 – Mock + Speed
+
+1–10. Solve **2 full-length coding mocks**
+11–20. Re-solve weak problems under time limit
