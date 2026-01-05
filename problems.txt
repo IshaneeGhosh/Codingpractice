@@ -379,7 +379,7 @@ Practice these **first**.
 ## ✅ HASHMAP / SET (VERY IMPORTANT FOR PRIME)
 
 1. [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)
-2. [https://leetcode.com/problems/intersection-of-two-arrays/](https://leetcode.com/problems/intersection-of-two-arrays/)
+2. [https://leetcode.com/problems/intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 3. [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 4. [https://leetcode.com/problems/longest-consecutive-sequence/](https://leetcode.com/problems/longest-consecutive-sequence/)
 5. [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)
