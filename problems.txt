@@ -378,15 +378,15 @@ Practice these **first**.
 
 ## ✅ HASHMAP / SET (VERY IMPORTANT FOR PRIME)
 
-1. [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)
-2. [https://leetcode.com/problems/intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-3. [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+1. [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)✅
+2. [https://leetcode.com/problems/intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)✅
+3. [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)✅
 4. [https://leetcode.com/problems/longest-consecutive-sequence/](https://leetcode.com/problems/longest-consecutive-sequence/)
 5. [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)
 6. [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
 7. [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
 8. [https://leetcode.com/problems/first-missing-positive/](https://leetcode.com/problems/first-missing-positive/)
-9. [https://leetcode.com/problems/find-all-duplicates-in-an-array/](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+9. [https://leetcode.com/problems/find-all-duplicates-in-an-array/](https://leetcode.com/problems/find-all-duplicates-in-an-array/)✅
 10. [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/) (harder, optional)
 
 ---
