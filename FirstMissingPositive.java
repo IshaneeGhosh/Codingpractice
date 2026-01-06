@@ -16,7 +16,7 @@ Input: nums = [7,8,9,11,12]
 Output: 1
 Explanation: The smallest positive integer 1 is missing.*/
 class FirstMissingPositive {
-    public int main(int[] nums) {
+    public int code(int[] nums) {
 
        Set<Integer> set=new HashSet<>();
        for(int x:nums)
