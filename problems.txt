@@ -331,23 +331,17 @@
 1–10. Solve **2 full-length coding mocks**
 11–20. Re-solve weak problems under time limit
 
-Perfect — I’ll **filter the roadmap into direct practice links** (mostly LeetCode, TCS-relevant difficulty) **and then give you realistic TCS NQT Prime–level mock coding questions**.
-
-I’ll **optimize** this so it’s usable (not 300 links dumped blindly), while still matching your *20-problems-a-day intensity*.
-
----
-
 # 🔗 FILTERED PRACTICE LINKS (TCS NQT–FOCUSED)
 
 ## ✅ ARRAYS (Core – must master)
 **Easy → Medium**
 
 1. https://leetcode.com/problems/maximum-subarray/
-2. https://leetcode.com/problems/two-sum/
+2. https://leetcode.com/problems/two-sum/✅
 3. https://leetcode.com/problems/move-zeroes/
-4. https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-5. https://leetcode.com/problems/rotate-array/
-6. https://leetcode.com/problems/majority-element/
+4. https://leetcode.com/problems/remove-duplicates-from-sorted-array/✅
+5. https://leetcode.com/problems/rotate-array/✅
+6. https://leetcode.com/problems/majority-element/✅
 7. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 8. https://leetcode.com/problems/find-the-duplicate-number/
 9. https://leetcode.com/problems/container-with-most-water/
@@ -431,8 +425,7 @@ I’ll **optimize** this so it’s usable (not 300 links dumped blindly), while 
 
 ---
 
-# 🧪 TCS NQT – MOCK CODING QUESTIONS (REALISTIC)
-
+# 🧪 MOCK CODING QUESTIONS (REALISTIC)
 These are *very close to actual questions*.
 
 ---
@@ -494,7 +487,6 @@ Given a string, compress it using the format `char + count`.
   * **10 fresh**
   * **5 repeat (same logic, faster)**
   * **5 timed (≤25 min total)**
-* For TCS :
   * **Accuracy > fancy optimization**
 
 
