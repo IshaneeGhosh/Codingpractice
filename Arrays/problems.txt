@@ -1,0 +1,62 @@
+1. Find largest element
+2. Find second largest
+3. Check if array sorted
+4. Reverse array
+5. Rotate array by k
+6. Remove duplicates (sorted)
+7. Left rotate by 1
+8. Count frequency
+9. Move zeros to end
+10. Linear search
+11. Sum of array
+12. Average of array
+13. Find missing number
+14. Max consecutive ones
+15. Array palindrome
+16. Count even & odd
+17. Replace elements with greatest on right
+18. Find smallest element
+19. Check equality of two arrays
+20. Array insertion & deletion
+
+---
+
+## 🟢 Day 2 – Arrays (Medium)
+
+1. Two sum
+2. Three sum (basic)
+3. Kadane’s algorithm
+4. Majority element
+5. Sort 0s,1s,2s
+6. Union of two arrays
+7. Intersection of two arrays
+8. Leaders in array
+9. Subarray with given sum
+10. Longest subarray with sum k
+11. Rearrange array alternately
+12. Stock buy & sell (single transaction)
+13. Missing & repeating number
+14. Equilibrium index
+15. Count inversions
+16. Maximum product subarray
+17. Minimize the heights
+18. Trapping rainwater
+19. Chocolate distribution
+20. Maximum sum circular subarray
+
+## ✅ ARRAYS (Core – must master)
+**Easy → Medium**
+
+1. https://leetcode.com/problems/maximum-subarray/
+2. https://leetcode.com/problems/two-sum/✅
+3. https://leetcode.com/problems/move-zeroes/
+4. https://leetcode.com/problems/remove-duplicates-from-sorted-array/✅
+5. https://leetcode.com/problems/rotate-array/✅
+6. https://leetcode.com/problems/majority-element/✅
+7. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+8. https://leetcode.com/problems/find-the-duplicate-number/
+9. https://leetcode.com/problems/container-with-most-water/
+10. https://leetcode.com/problems/subarray-sum-equals-k/
+
+👉 Repeat with variations on **GeeksForGeeks (TCS loves GFG style)**
+(Search problem names directly)
