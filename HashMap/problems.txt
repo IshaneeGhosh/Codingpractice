@@ -13,19 +13,19 @@
 
 ## 🟢 Day 5 – HashMap / HashSet
 
-1. Frequency count
-2. First repeating element
+1. Frequency count ✅
+2. First repeating element ✅
 3. First non-repeating element
-4. Two sum using hashmap
+4. Two sum using hashmap ✅
 5. Subarray with sum 0
 6. Longest consecutive sequence
-7. Count distinct elements
+7. Count distinct elements ✅
 8. Union & intersection
-9. Majority element
-10. Duplicate detection
-11. Anagram grouping
+9. Majority element ✅
+10. Duplicate detection ✅
+11. Anagram grouping ✅
 12. Check subset
-13. Pair with given sum
+13. Pair with given sum ✅
 14. Max distance between same elements
 15. Character frequency
 16. Symmetric pairs
