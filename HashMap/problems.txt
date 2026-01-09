@@ -1,0 +1,35 @@
+## ✅ HASHMAP / SET (VERY IMPORTANT FOR PRIME)
+
+1. https://leetcode.com/problems/contains-duplicate/✅
+2. https://leetcode.com/problems/intersection-of-two-arrays✅
+3. https://leetcode.com/problems/intersection-of-two-arrays-ii/✅
+4. https://leetcode.com/problems/longest-consecutive-sequence/✅
+5. https://leetcode.com/problems/subarray-sum-equals-k/
+6. https://leetcode.com/problems/group-anagrams/✅
+7. https://leetcode.com/problems/top-k-frequent-elements/✅
+8. https://leetcode.com/problems/first-missing-positive✅
+9. https://leetcode.com/problems/find-all-duplicates-in-an-array/✅
+10. https://leetcode.com/problems/minimum-window-substring/ (harder, optional)
+
+## 🟢 Day 5 – HashMap / HashSet
+
+1. Frequency count
+2. First repeating element
+3. First non-repeating element
+4. Two sum using hashmap
+5. Subarray with sum 0
+6. Longest consecutive sequence
+7. Count distinct elements
+8. Union & intersection
+9. Majority element
+10. Duplicate detection
+11. Anagram grouping
+12. Check subset
+13. Pair with given sum
+14. Max distance between same elements
+15. Character frequency
+16. Symmetric pairs
+17. Zero sum subarrays count
+18. Smallest window with all chars
+19. Distinct characters in window
+20. Longest substring without repetition
