@@ -20,7 +20,7 @@ Constraints:
 1 <= s.length <= 105
 s consists of lowercase English letters.
 */
-class ValidPalindrome {
+class ValidPalindromeII {
     public boolean validPalindrome(String s) {
         int l = 0, r = s.length() - 1;
 
