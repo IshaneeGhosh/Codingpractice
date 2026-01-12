@@ -1,0 +1,59 @@
+## 🟢 Day 3 – Strings Basics
+
+1. Reverse string
+2. Check palindrome
+3. Count vowels & consonants
+4. Remove spaces
+5. Change case
+6. Find length without strlen
+7. Count words
+8. Anagram check
+9. Remove duplicate characters
+10. First non-repeating character
+11. Replace character
+12. Compare strings
+13. Convert string to integer
+14. Longest word
+15. Count characters frequency
+16. Toggle case
+17. Remove vowels
+18. Reverse words in string
+19. Check rotation
+20. Check pangram
+
+---
+
+## 🟢 Day 4 – Strings (Medium)
+
+1. Longest common prefix
+2. Longest palindrome substring
+3. String compression
+4. Valid parentheses
+5. Isomorphic strings
+6. Pattern matching (naive)
+7. Count substrings
+8. Remove adjacent duplicates
+9. Find all permutations (small)
+10. Find substring index
+11. Edit distance (basic)
+12. Repeated substring pattern
+13. Balanced parentheses count
+14. String rotation check
+15. Minimum insertions for palindrome
+16. Lexicographically smallest string
+17. Word frequency
+18. Reverse each word
+19. Capitalize words
+20. String to binary conversion
+
+## ✅ STRINGS
+1. https://leetcode.com/problems/valid-palindrome/
+2. https://leetcode.com/problems/reverse-words-in-a-string/
+3. https://leetcode.com/problems/first-unique-character-in-a-string/
+4. https://leetcode.com/problems/longest-common-prefix/
+5. https://leetcode.com/problems/valid-anagram/
+6. https://leetcode.com/problems/isomorphic-strings/
+7. https://leetcode.com/problems/string-compression/
+8. https://leetcode.com/problems/longest-palindromic-substring/
+9. https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+10. https://leetcode.com/problems/repeated-substring-pattern/
