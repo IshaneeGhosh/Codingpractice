@@ -26,14 +26,14 @@
 1. Two sum ✅
 2. Three sum (basic)
 3. Kadane’s algorithm
-4. Majority element
-5. Sort 0s,1s,2s
+4. Majority element ✅
+5. Sort 0s,1s,2s ✅
 6. Union of two arrays
-7. Intersection of two arrays
+7. Intersection of two arrays ✅
 8. Leaders in array
 9. Subarray with given sum
 10. Longest subarray with sum k
-11. Rearrange array alternately
+11. Rearrange array alternately ✅
 12. Stock buy & sell (single transaction)
 13. Missing & repeating number
 14. Equilibrium index
@@ -54,7 +54,7 @@
 5. https://leetcode.com/problems/rotate-array/✅
 6. https://leetcode.com/problems/majority-element/✅
 7. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-8. https://leetcode.com/problems/find-the-duplicate-number/
+8. https://leetcode.com/problems/find-the-duplicate-number/✅
 9. https://leetcode.com/problems/container-with-most-water/
 10. https://leetcode.com/problems/subarray-sum-equals-k/
 
