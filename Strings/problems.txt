@@ -47,9 +47,9 @@
 20. String to binary conversion
 
 ## ✅ STRINGS
-1. https://leetcode.com/problems/valid-palindrome/
-2. https://leetcode.com/problems/reverse-words-in-a-string/
-3. https://leetcode.com/problems/first-unique-character-in-a-string/
+1. https://leetcode.com/problems/valid-palindrome/ ✅
+2. https://leetcode.com/problems/reverse-words-in-a-string/ ✅
+3. https://leetcode.com/problems/first-unique-character-in-a-string/ 
 4. https://leetcode.com/problems/longest-common-prefix/
 5. https://leetcode.com/problems/valid-anagram/
 6. https://leetcode.com/problems/isomorphic-strings/
